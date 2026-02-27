@@ -7,7 +7,7 @@
 
 ### Professional Summary
 
-Results-driven MCA final-year student with practical experience in building full-stack web applications using the MERN stack. Strong understanding of RESTful API development, authentication systems, database design, and backend architecture. Focused on writing clean, scalable, and maintainable code.
+MCA final-year student and MERN Stack Developer with hands-on experience in building scalable full-stack applications. Strong foundation in backend architecture, RESTful APIs, authentication systems, and database design. Passionate about solving real-world problems through clean and efficient code.
 
 ---
 
@@ -30,23 +30,30 @@ Git, GitHub, Postman, AWS EC2, VS Code
 
 ---
 
-### Selected Projects
+### Key Projects
+
+**AI Resume Builder Application**  
+- Developed an intelligent resume-building web app with dynamic form handling  
+- Implemented structured resume templates and real-time preview functionality  
+- Built backend APIs for storing and managing user resume data  
+- Focused on clean UI and scalable backend structure  
 
 **E-Commerce Web Application (MERN Stack)**  
-- Built a full-stack application with authentication and protected routes  
-- Designed RESTful APIs for product, cart, and order management  
-- Integrated MongoDB for efficient data handling  
-- Implemented structured backend architecture for scalability  
+- Built a full-stack shopping platform with authentication and protected routes  
+- Implemented product listing, cart management, and order flow  
+- Designed RESTful APIs and integrated MongoDB for efficient data handling  
+- Applied modular backend architecture for scalability  
 
-**Backend Authentication System (JWT-Based)**  
-- Developed secure login and registration system  
-- Implemented role-based access control  
-- Designed middleware for route protection and validation  
+**ERP Management System**  
+- Developed a role-based enterprise resource planning system  
+- Implemented modules for user management, operations tracking, and reporting  
+- Built secure authentication and authorization system  
+- Designed structured database schema for organized data flow  
 
-**Task / CRUD Management System**  
+**CRUD Management System**  
 - Created backend APIs with complete CRUD functionality  
-- Connected MongoDB for persistent data storage  
-- Structured project following MVC pattern  
+- Implemented validation, middleware, and error handling  
+- Structured project using MVC architecture pattern  
 
 ---
 
@@ -55,8 +62,9 @@ Git, GitHub, Postman, AWS EC2, VS Code
 - REST API Development  
 - Authentication & Authorization (JWT)  
 - Database Schema Design  
-- Backend Debugging & Optimization  
-- Clean Code & Modular Architecture  
+- Backend Architecture (MVC Pattern)  
+- Role-Based Access Control  
+- Clean & Maintainable Code  
 
 ---
 
@@ -76,5 +84,5 @@ Git, GitHub, Postman, AWS EC2, VS Code
 ---
 
 <p align="center">
-  Consistent learner • Problem solver • Focused on long-term growth
+  Focused on building scalable systems • Continuous learner • Problem solver
 </p>
