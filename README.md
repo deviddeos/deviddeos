@@ -1,60 +1,80 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Prince Gupta</h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Passionate about Web Development</h3>
+<h1 align="center">Prince Gupta</h1>
+<h3 align="center">MERN Stack Developer | Backend-Focused Full Stack Developer</h3>
 
 ---
 
-### 🌟 About Me
-- 🎓 MCA Final Year Student  
-- 🌱 Currently learning **Advanced Backend & System Design**  
-- 💬 Ask me about **Frontend Development, Node.js, Express, MongoDB**  
-- 📫 Reach me at: **20prince22@gmail.com**  
-- ⚡ Fun fact: *I love turning ideas into real-world projects!*  
+### Professional Summary
+
+Results-driven MCA final-year student with practical experience in building full-stack web applications using the MERN stack. Strong understanding of RESTful API development, authentication systems, database design, and backend architecture. Focused on writing clean, scalable, and maintainable code.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Node.js-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Code-Express.js-black?logo=express" />
-  <img src="https://img.shields.io/badge/Code-React-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql" />
-  <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?logo=github" />
-  <img src="https://img.shields.io/badge/Tools-Postman-orange?logo=postman" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws" />
-</p>
+### Technical Skills
+
+**Languages:**  
+JavaScript (ES6+), SQL  
+
+**Frontend:**  
+HTML5, CSS3, React.js, Bootstrap  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB, MySQL  
+
+**Tools & Platforms:**  
+Git, GitHub, Postman, AWS EC2, VS Code  
 
 ---
 
-### 🚀 Featured Projects
-- 🐾 <a href="https://github.com/deviddeos/petmatch"><b>PetMatch</b></a> – Pet Adoption & Rehome Website (MERN Stack)  
-- 🔗 <a href="https://github.com/deviddeos/express_urlShortner"><b>URL Shortener</b></a> – Node.js-based URL shortener  
-- 🛒 <a href="https://github.com/deviddeos"><b>E-Commerce App</b></a> – Full-stack shopping platform  
+### Selected Projects
+
+**E-Commerce Web Application (MERN Stack)**  
+- Built a full-stack application with authentication and protected routes  
+- Designed RESTful APIs for product, cart, and order management  
+- Integrated MongoDB for efficient data handling  
+- Implemented structured backend architecture for scalability  
+
+**Backend Authentication System (JWT-Based)**  
+- Developed secure login and registration system  
+- Implemented role-based access control  
+- Designed middleware for route protection and validation  
+
+**Task / CRUD Management System**  
+- Created backend APIs with complete CRUD functionality  
+- Connected MongoDB for persistent data storage  
+- Structured project following MVC pattern  
 
 ---
 
-### 📊 GitHub Stats
+### Core Competencies
+
+- REST API Development  
+- Authentication & Authorization (JWT)  
+- Database Schema Design  
+- Backend Debugging & Optimization  
+- Clean Code & Modular Architecture  
+
+---
+
+### GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deviddeos&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deviddeos&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deviddeos&show_icons=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/princegupta-" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:20prince22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Contact
+
+📧 20prince22@gmail.com  
+🔗 linkedin.com/in/princegupta-  
 
 ---
 
-<h3 align="center">⭐ “Consistency beats motivation. I build, I learn, I improve.”</h3>
+<p align="center">
+  Consistent learner • Problem solver • Focused on long-term growth
+</p>
