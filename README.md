@@ -16,10 +16,13 @@
 ![AWS](https://img.shields.io/badge/AWS_EC2-633806?style=flat-square&logo=amazonec2&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-185FA5?style=flat-square&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-27500A?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-3C3489?style=flat-square&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-633806?style=flat-square&logo=openjdk&logoColor=white)
 
 <br/>
 
-📍 Noida, India &nbsp;·&nbsp; 🎓 MCA Final Year &nbsp;·&nbsp; 💻 [github.com/deviddeos](https://github.com/deviddeos)
+📍 Noida, India &nbsp;·&nbsp; 🎓 MCA Graduate 2026 &nbsp;·&nbsp; 💻 [github.com/deviddeos](https://github.com/deviddeos)
 
 </div>
 
@@ -27,7 +30,7 @@
 
 ### 💡 About
 
-> MCA final-year student and MERN Stack Developer with hands-on experience building scalable full-stack applications. Strong foundation in backend architecture, RESTful APIs, authentication systems, and database design. Passionate about solving real-world problems through clean, maintainable code.
+> MCA 2026 graduate and MERN Stack Developer with hands-on experience building scalable full-stack applications. Strong foundation in backend architecture, RESTful APIs, authentication systems, and database design. Passionate about solving real-world problems through clean, maintainable code.
 
 ---
 
@@ -35,8 +38,8 @@
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | `JavaScript ES6+` `SQL` |
-| **Frontend** | `React.js` `HTML5` `CSS3` `Bootstrap` |
+| **Languages** | `JavaScript ES6+` `TypeScript` `Java` `SQL` |
+| **Frontend** | `React.js` `React Native` `HTML5` `CSS3` `Bootstrap` |
 | **Backend** | `Node.js` `Express.js` |
 | **Database** | `MongoDB` `MySQL` |
 | **Tools & Cloud** | `AWS EC2` `Git` `GitHub` `Postman` `VS Code` |
@@ -56,6 +59,8 @@
 - Real-time preview with clean, responsive UI
 - Scalable backend APIs for resume data management
 
+[View Repo →](https://github.com/deviddeos/ai-resume-builder-app)
+
 </td>
 <td width="50%" valign="top">
 
@@ -65,6 +70,8 @@
 - Full shopping flow with auth & protected routes
 - Product listing, cart management, order flow
 - Modular backend architecture for scalability
+
+[View Repo →](https://github.com/deviddeos/e-commerce-plateform)
 
 </td>
 </tr>
@@ -78,6 +85,8 @@
 - Modules for user management & reporting
 - Secure auth flow with structured DB schema
 
+[View Repo →](https://github.com/deviddeos/college-erp-system)
+
 </td>
 <td width="50%" valign="top">
 
@@ -87,6 +96,8 @@
 - Complete CRUD APIs with validation & middleware
 - JWT-based secure authentication & sessions
 - Clean MVC architecture with error handling
+
+[View Repo →](https://github.com/deviddeos/authentication-system)
 
 </td>
 </tr>
@@ -118,6 +129,16 @@
 
 ---
 
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/deviddeos/deviddeos/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ### 📬 Get In Touch
 
 <div align="center">
@@ -135,3 +156,27 @@
 *Focused on building scalable systems &nbsp;·&nbsp; Continuous learner &nbsp;·&nbsp; Problem solver*
 
 </div>
+
+
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: deviddeos
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
