@@ -34,6 +34,14 @@
 
 ---
 
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/deviddeos/deviddeos/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ### 🛠 Technical Skills
 
 | Category | Technologies |
@@ -129,13 +137,7 @@
 
 ---
 
-### 🐍 Contribution Graph
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/deviddeos/deviddeos/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
