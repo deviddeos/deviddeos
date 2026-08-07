@@ -1,136 +1,54 @@
-<div align="center">
+<h1 align="center">Hi, I'm Prince 👋</h1>
+<h3 align="center">Backend-Focused Full Stack Engineer, building with the MERN stack</h3>
 
-<img src="https://img.shields.io/badge/🟢_Open_to-Opportunities-2d9e2d?style=flat-square" />
+<p align="center">
+  <a href="mailto:20prince22@gmail.com">📧 Email</a> ·
+  <a href="https://linkedin.com/in/princegupta-">💼 LinkedIn</a> ·
+  <a href="https://www.hackerrank.com/profile/prince24714">🏆 HackerRank</a> ·
+  📍 Noida, India
+</p>
 
-<br/><br/>
-
-# Prince Gupta
-
-**MERN Stack Developer · Backend-Focused Full Stack Engineer**
-
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-185FA5?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React.js-27500A?style=flat-square&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-3C3489?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-633806?style=flat-square&logo=amazonec2&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-185FA5?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-27500A?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-3C3489?style=flat-square&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-633806?style=flat-square&logo=openjdk&logoColor=white)
-
-<br/>
-
-📍 Noida, India &nbsp;·&nbsp; 💻 [github.com/deviddeos](https://github.com/deviddeos)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=520&lines=Node.js+%2B+Express+%2B+MongoDB;RESTful+APIs+%26+Authentication+Systems;Scalable+Backend+Architecture;Always+shipping+something+new." alt="Typing SVG" />
+</p>
 
 ---
 
-### 💡 About
+## 👨‍💻 About Me
 
-> Full-Stack Developer specializing in the MERN stack, with hands-on experience building scalable, production-ready web applications. Strong foundation in backend architecture, RESTful API design, authentication systems, and database modeling. Focused on writing clean, maintainable code and solving real-world problems through thoughtful engineering.
+I'm a Full Stack Developer who leans backend-first — I like designing the systems underneath the UI: the APIs, the auth flows, the schemas that keep everything from falling apart at scale. I build with the MERN stack day to day and I'm comfortable owning a feature from database to deployment.
 
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/deviddeos/deviddeos/output/github-contribution-grid-snake.svg)
-
-</div>
-
-### 🛠 Technical Skills
-
-| Category | Technologies |
-|:---|:---|
-| **Languages** | `JavaScript ES6+` `TypeScript` `Java` `SQL` |
-| **Frontend** | `React.js` `React Native` `HTML5` `CSS3` `Bootstrap` |
-| **Backend** | `Node.js` `Express.js` |
-| **Database** | `MongoDB` `MySQL` |
-| **Tools & Cloud** | `AWS EC2` `Git` `GitHub` `Postman` `VS Code` |
+- 🔭 Currently building full-stack applications with **Node.js, React, and MongoDB**
+- 🌱 Sharpening my skills in **system design** and **cloud infrastructure (AWS)**
+- 🤝 Open to **Software Engineering / Backend Developer** opportunities
+- ⚡ Fun fact: I'd rather debug a broken API at midnight than leave it for tomorrow
 
 ---
 
-### 🚀 Projects
+## 🧰 Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🤖 AI Resume Builder**
-`Node.js` · `React` · `MongoDB`
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,mysql" />
 
-- Dynamic form handling & structured resume templates
-- Real-time preview with a clean, responsive UI
-- Scalable backend APIs for resume data management
-
-[View Repo →](https://github.com/deviddeos/ai-resume-builder-app)
-
-</td>
-<td width="50%" valign="top">
-
-**🛒 E-Commerce Platform**
-`MERN Stack` · `JWT` · `REST API`
-
-- Full shopping flow with auth & protected routes
-- Product listing, cart management, order flow
-- Modular backend architecture for scalability
-
-[View Repo →](https://github.com/deviddeos/e-commerce-plateform)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🏢 College ERP System**
-`Node.js` · `MongoDB` · `RBAC`
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-- Role-based access control for enterprise use
-- Modules for user management & reporting
-- Secure auth flow with structured DB schema
-
-[View Repo →](https://github.com/deviddeos/college-erp-system)
-
-</td>
-<td width="50%" valign="top">
-
-**🔐 Authentication System**
-`Express.js` · `JWT` · `MVC`
-
-- Complete CRUD APIs with validation & middleware
-- JWT-based secure authentication & sessions
-- Clean MVC architecture with error handling
-
-[View Repo →](https://github.com/deviddeos/authentication-system)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🍔 React Native Food App**
-`React Native` · `Expo` · `TypeScript`
-
-- Cross-platform mobile UI built with Expo
-- Component-driven architecture for reusability
-- Smooth navigation and responsive layouts
-
-[View Repo →](https://github.com/deviddeos/react-native-expo-foodApp)
-
-</td>
-<td width="50%" valign="top">
-
-**🧮 DSA Practice**
-`Java`
-
-- Ongoing collection of data structures & algorithms solutions
-- Focus on problem-solving and optimized implementations
-
-[View Repo →](https://github.com/deviddeos/dsa-practice-code)
+**Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,postman,vscode" />
 
 </td>
 </tr>
@@ -138,44 +56,50 @@
 
 ---
 
-### ⚡ Core Competencies
+## 🚀 Featured Work
 
-```
-✦ REST API Development          ✦ Authentication & Authorization (JWT)
-✦ Database Schema Design        ✦ Backend Architecture (MVC Pattern)
-✦ Role-Based Access Control     ✦ Clean & Maintainable Code
-```
+> #### 🤖 [AI Resume Builder](https://github.com/deviddeos/ai-resume-builder-app)
+> Dynamic resume builder with real-time preview and structured templates. `Node.js` `React` `MongoDB`
 
----
+> #### 🛒 [E-Commerce Platform](https://github.com/deviddeos/e-commerce-plateform)
+> Full shopping flow — auth, cart, orders — on a modular MERN backend. `MERN` `JWT` `REST API`
 
-### 📊 GitHub Statistics
+> #### 🏢 [College ERP System](https://github.com/deviddeos/college-erp-system)
+> Role-based enterprise system for user management and reporting. `Node.js` `MongoDB` `RBAC`
+
+> #### 🔐 [Authentication System](https://github.com/deviddeos/authentication-system)
+> Secure, validated CRUD APIs built on clean MVC architecture. `Express.js` `JWT` `MVC`
+
+> #### 🍔 [React Native Food App](https://github.com/deviddeos/react-native-expo-foodApp)
+> Cross-platform mobile ordering UI built with Expo. `React Native` `Expo` `TypeScript`
 
 <div align="center">
 
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deviddeos&show_icons=true&hide_border=true&bg_color=ffffff&title_color=185FA5&icon_color=378ADD&text_color=444441)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deviddeos&layout=compact&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=444441)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=deviddeos&hide_border=true&background=ffffff&ring=378ADD&fire=378ADD&currStreakLabel=185FA5&sideLabels=444441&currStreakNum=185FA5&sideNums=185FA5&dates=888780)
+*See more on my [pinned repositories →](https://github.com/deviddeos?tab=repositories)*
 
 </div>
 
 ---
 
-### 📬 Get In Touch
+## 📈 GitHub Stats
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deviddeos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviddeos&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
-[![Email](https://img.shields.io/badge/Email-20prince22%40gmail.com-185FA5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20prince22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-princegupta--?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5)](https://linkedin.com/in/princegupta-)
-[![HackerRank](https://img.shields.io/badge/HackerRank-prince24714-2ec866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/prince24714)
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=deviddeos&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/deviddeos/deviddeos/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
 <div align="center">
 
-*Focused on building scalable systems &nbsp;·&nbsp; Continuous learner &nbsp;·&nbsp; Problem solver*
+**Let's build something.** Reach out on [LinkedIn](https://linkedin.com/in/princegupta-) or drop me an [email](mailto:20prince22@gmail.com).
 
 </div>
