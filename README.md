@@ -22,7 +22,7 @@
 
 <br/>
 
-📍 Noida, India &nbsp;·&nbsp; 🎓 MCA Graduate 2026 &nbsp;·&nbsp; 💻 [github.com/deviddeos](https://github.com/deviddeos)
+📍 Noida, India &nbsp;·&nbsp; 💻 [github.com/deviddeos](https://github.com/deviddeos)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ### 💡 About
 
-> MCA 2026 graduate and MERN Stack Developer with hands-on experience building scalable full-stack applications. Strong foundation in backend architecture, RESTful APIs, authentication systems, and database design. Passionate about solving real-world problems through clean, maintainable code.
+> Full-Stack Developer specializing in the MERN stack, with hands-on experience building scalable, production-ready web applications. Strong foundation in backend architecture, RESTful API design, authentication systems, and database modeling. Focused on writing clean, maintainable code and solving real-world problems through thoughtful engineering.
 
 ---
 
@@ -64,7 +64,7 @@
 `Node.js` · `React` · `MongoDB`
 
 - Dynamic form handling & structured resume templates
-- Real-time preview with clean, responsive UI
+- Real-time preview with a clean, responsive UI
 - Scalable backend APIs for resume data management
 
 [View Repo →](https://github.com/deviddeos/ai-resume-builder-app)
@@ -109,6 +109,31 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🍔 React Native Food App**
+`React Native` · `Expo` · `TypeScript`
+
+- Cross-platform mobile UI built with Expo
+- Component-driven architecture for reusability
+- Smooth navigation and responsive layouts
+
+[View Repo →](https://github.com/deviddeos/react-native-expo-foodApp)
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 DSA Practice**
+`Java`
+
+- Ongoing collection of data structures & algorithms solutions
+- Focus on problem-solving and optimized implementations
+
+[View Repo →](https://github.com/deviddeos/dsa-practice-code)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -137,10 +162,6 @@
 
 ---
 
-
-
----
-
 ### 📬 Get In Touch
 
 <div align="center">
@@ -158,4 +179,3 @@
 *Focused on building scalable systems &nbsp;·&nbsp; Continuous learner &nbsp;·&nbsp; Problem solver*
 
 </div>
-
