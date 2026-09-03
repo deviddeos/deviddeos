@@ -3,8 +3,6 @@
 
 <p align="center">
   <a href="mailto:20prince22@gmail.com">📧 Email</a> ·
-  <a href="https://linkedin.com/in/princegupta-">💼 LinkedIn</a> ·
-  <a href="https://www.hackerrank.com/profile/prince24714">🏆 HackerRank</a> ·
   📍 Noida, India
 </p>
 
@@ -100,6 +98,6 @@ I'm a Full Stack Developer who leans backend-first — I like designing the syst
 
 <div align="center">
 
-**Let's build something.** Reach out on [LinkedIn](https://linkedin.com/in/princegupta-) or drop me an [email](mailto:20prince22@gmail.com).
+**Let's build something.** Reach out on [email](mailto:20prince22@gmail.com).
 
 </div>
