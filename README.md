@@ -54,22 +54,6 @@ I'm a Full Stack Developer who leans backend-first — I like designing the syst
 
 ---
 
-## 🚀 Featured Work
-
-> #### 🤖 [AI Resume Builder](https://github.com/deviddeos/ai-resume-builder-app)
-> Dynamic resume builder with real-time preview and structured templates. `Node.js` `React` `MongoDB`
-
-> #### 🛒 [E-Commerce Platform](https://github.com/deviddeos/e-commerce-plateform)
-> Full shopping flow — auth, cart, orders — on a modular MERN backend. `MERN` `JWT` `REST API`
-
-> #### 🏢 [College ERP System](https://github.com/deviddeos/college-erp-system)
-> Role-based enterprise system for user management and reporting. `Node.js` `MongoDB` `RBAC`
-
-> #### 🔐 [Authentication System](https://github.com/deviddeos/authentication-system)
-> Secure, validated CRUD APIs built on clean MVC architecture. `Express.js` `JWT` `MVC`
-
-> #### 🍔 [React Native Food App](https://github.com/deviddeos/react-native-expo-foodApp)
-> Cross-platform mobile ordering UI built with Expo. `React Native` `Expo` `TypeScript`
 
 <div align="center">
 
